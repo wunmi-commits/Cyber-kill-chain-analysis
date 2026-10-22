@@ -42,7 +42,11 @@ The framework helps security analysts organize attack activity and identify oppo
 | Actions on Objectives | Data from local system | Collecting local data may support an attacker’s objective, such as preparing information for theft. |
 
 **Important learning note:** These mappings represent the labels used in the lab exercise. In real investigations, techniques may support different stages depending on context. PowerShell is a dual-use tool, so its presence alone does not establish malicious activity.
+## Lab Evidence
 
+Successfully completed the TryHackMe Cyber Kill Chain practical.
+
+![Completed Cyber Kill Chain lab](Kill-chain-complete.png)
 ## Methodology
 
 1. Reviewed the TryHackMe scenario and instructions.
@@ -111,6 +115,6 @@ This project documents an authorized educational lab. All practical activities s
 
 ---
 
-**Author:** Mariam Omowumi  
+**Author:** Wunmi Adam      
 **Project:** Cyber Kill Chain Analysis  
 **Focus:** Cybersecurity | Threat Analysis | Defensive Security
